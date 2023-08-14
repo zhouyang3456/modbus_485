@@ -1,9 +1,0 @@
-{
-    "SERIEL_PORT": "/dev/ttyS4",
-    "BAUD_RATE": 9600,
-    "JXBS_3001_TR_PATH": "/tmp/sse1.info",
-    "VMS_3000_TR_3W3S_PATH": "/tmp/sse2.info",
-    "WX_WQX7_PATH": "/tmp/mse1.info",
-    "LOOP_TIME": 120,
-    "RESPONSE_TIME": 1
-}
